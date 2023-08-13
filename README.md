@@ -1,3 +1,6 @@
 # Oussama Oubaba
 
-LinkedIn https://www.linkedin.com/in/oussama-oubaba/
+## Online profiles
+
+- [LinkedIn](https://www.linkedin.com/in/oussama-oubaba/)
+- [Github](https://github.com/oussama-oubaba)
